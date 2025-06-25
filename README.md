@@ -29,15 +29,15 @@ Este projeto é um sistema simples de gerenciamento de produtos com interface vi
 
 ## 🗃️ Estrutura do Projeto
 
-/src
-├── connection/
-│ └── DataBaseConnection.java # Classe Singleton para gerenciar conexões
-├── classes/
-│ └── Product.java # Classe modelo de Produto
-├── DataBase/
-│ └── ProductDAOImpl.java # Implementação DAO com operações CRUD
-└── test/
-└── TestCRUD.java # Interface via terminal com menu interativo
+/src<br>
+├── connection/<br>
+│ └── DataBaseConnection.java # Classe Singleton para gerenciar conexões<br>
+├── classes/<br>
+│ └── Product.java # Classe modelo de Produto<br>
+├── DataBase/<br>
+│ └── ProductDAOImpl.java # Implementação DAO com operações CRUD<br>
+└── test/<br>
+└── TestCRUD.java # Interface via terminal com menu interativo<br>
 
 ---
 
